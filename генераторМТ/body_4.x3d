@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><X3D version="3.2"><Scene><Background skyColor="1 1 1"/><Viewpoint position="0 0 4"/><Transform translation="0,0,0" rotation="0 0 1 0"><Shape><Box size="0.075,0.08,0.012"/><Appearance><Material diffuseColor="0,0,1"/></Appearance></Shape></Transform></Scene></X3D>
